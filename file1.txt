@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 newclass
+=======
+brand new life
+>>>>>>> main
